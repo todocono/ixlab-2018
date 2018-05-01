@@ -11,5 +11,17 @@
   "license": "ISC",
   "engines": {
     "node": "9.2.1"
-  }
+  },
+  "dependencies": {
+    "node-static": "^0.7.10"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todocono/ixlab-2018.git"
+  },
+  "bugs": {
+    "url": "https://github.com/todocono/ixlab-2018/issues"
+  },
+  "homepage": "https://github.com/todocono/ixlab-2018#readme"
 }
